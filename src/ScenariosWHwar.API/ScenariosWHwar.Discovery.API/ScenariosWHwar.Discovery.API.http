@@ -1,0 +1,6 @@
+@ScenariosWHwar.Discovery.API_HostAddress = http://localhost:5043
+
+GET {{ScenariosWHwar.Discovery.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

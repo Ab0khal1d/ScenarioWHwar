@@ -1,0 +1,32 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="global.json" />
+    <File Path="README.md" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/src/" />
+      <Folder Name="/src/ScenariosWHwar.API/">
+        <Project Path="src\ScenariosWHwar.API\ScenariosWHwar.API.Core\ScenariosWHwar.API.Core.csproj" />
+        <Project Path="src\ScenariosWHwar.API\ScenariosWHwar.CMS.API\ScenariosWHwar.CMS.API.csproj">
+          <BuildDependency Project="src\ScenariosWHwar.API\ScenariosWHwar.API.Core\ScenariosWHwar.API.Core.csproj" />
+        </Project>
+        <Project Path="src\ScenariosWHwar.API\ScenariosWHwar.Discovery.API\ScenariosWHwar.Discovery.API.csproj" />
+      </Folder>
+    <Folder Name="/src/ScenariosWHwar.Functions/">
+      <Project Path="src/ScenariosWHwar.Functions/ScenariosWHwar.Function.Processor/ScenariosWHwar.Function.Processor/ScenariosWHwar.Function.Processor.csproj" Id="9fbdf295-1419-421b-9c1f-495b35ab92b7" />
+    </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/docs/">
+    <Folder Name="/architecture/" />
+    <Folder Name="/design/" />
+    <Folder Name="/user-guides/" />
+  </Folder>
+</Solution>

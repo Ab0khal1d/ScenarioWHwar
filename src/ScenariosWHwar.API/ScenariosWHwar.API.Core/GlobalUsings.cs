@@ -1,0 +1,12 @@
+global using Ardalis.Specification;
+global using ErrorOr;
+global using MediatR;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using ScenariosWHwar.API.Core.Common.Domain.Base;
+global using ScenariosWHwar.API.Core.Common.Domain.Base.Interfaces;
+global using ScenariosWHwar.API.Core.Common.Domain.Episodes;
+global using ScenariosWHwar.API.Core.Common.Interfaces;
+global using Vogen;
+global using static System.ArgumentException;
+global using static System.ArgumentOutOfRangeException;

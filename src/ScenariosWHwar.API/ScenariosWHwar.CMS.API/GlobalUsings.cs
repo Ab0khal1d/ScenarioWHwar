@@ -1,0 +1,16 @@
+global using Ardalis.Specification;
+global using Ardalis.Specification.EntityFrameworkCore;
+global using ErrorOr;
+global using FluentValidation;
+global using MediatR;
+global using Microsoft.EntityFrameworkCore;
+global using ScenariosWHwar.API.Core.Common.Domain.Episodes;
+global using ScenariosWHwar.API.Core.Common.Domain.Episodes.Specifications;
+global using ScenariosWHwar.API.Core.Common.Interfaces;
+global using ScenariosWHwar.CMS.API.Common.Persistence;
+global using ScenariosWHwar.CMS.API.Host.Extensions;
+global using Vogen;
+global using static System.ArgumentException;
+global using static System.ArgumentOutOfRangeException;
+global using static System.ArgumentNullException;
+global using ScenariosWHwar.API.Core.Common.Configurations;

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ScenariosWHwar.Importer.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7020",
+      "launchBrowser": false
+    }
+  }
+}
