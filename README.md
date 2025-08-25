@@ -1,5 +1,3 @@
-![ScenariosWHwar Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=🎬+ScenariosWHwar+📚+Episode+Management+Platform)
-
 <div align="center">
 
 # 🎭 **ScenariosWHwar** 🎪
@@ -236,11 +234,9 @@ graph TB
 
 <div align="center">
 
-| Tool             | Version | Purpose                   |
-| ---------------- | ------- | ------------------------- |
-| 🐳 **Docker**    | Latest  | Container orchestration   |
-| ⚡ **.NET**      | 9.0+    | Runtime environment       |
-| ☁️ **Azure CLI** | Latest  | Cloud resource management |
+| Tool        | Version | Purpose             |
+| ----------- | ------- | ------------------- |
+| ⚡ **.NET** | 9.0+    | Runtime environment |
 
 </div>
 
@@ -661,36 +657,3 @@ graph LR
 7. 🎉 **Merge**: Celebrate your contribution!
 
 </details>
-
-### 🏆 **Recognition**
-
-<div align="center">
-
-**🌟 All contributors will be recognized in our Hall of Fame! 🌟**
-
-<img src="https://contrib.rocks/image?repo=SSWConsulting/ScenarioWHwar" alt="Contributors">
-
-</div>
-
----
-
-<div align="center">
-
-### 🎭 **Ready to Create Amazing Episodes?** 🎪
-
-<img src="https://img.shields.io/badge/🚀_Get_Started-Right_Now!-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Get Started">
-
----
-
-<p align="center">
-  <strong>Made with ❤️ by the SSW Community</strong><br>
-  <em>🌟 Star us on GitHub • 🐛 Report Issues • 🤝 Contribute • 📚 Read the Docs 🌟</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love">
-</p>
-
-</div>
